@@ -1,0 +1,7 @@
+/Users/simon/workspace/flink-examples-table/src/test/java/org/apache/flink/table/examples/utils/ExampleOutputTestBase.java
+/Users/simon/workspace/flink-examples-table/src/test/java/org/apache/flink/table/examples/java/basics/GettingStartedExampleITCase.java
+/Users/simon/workspace/flink-examples-table/src/test/java/org/apache/flink/table/examples/java/basics/UpdatingTopCityExampleITCase.java
+/Users/simon/workspace/flink-examples-table/src/test/java/org/apache/flink/table/examples/java/functions/AdvancedFunctionsExampleITCase.java
+/Users/simon/workspace/flink-examples-table/src/test/java/org/apache/flink/table/examples/java/basics/StreamSQLExampleITCase.java
+/Users/simon/workspace/flink-examples-table/src/test/java/org/apache/flink/table/examples/java/basics/WordCountSQLExampleITCase.java
+/Users/simon/workspace/flink-examples-table/src/test/java/org/apache/flink/table/examples/java/basics/TemporalJoinSQLExampleITCase.java

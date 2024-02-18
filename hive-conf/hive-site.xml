@@ -1,0 +1,26 @@
+<configuration>
+    <property>
+        <name>hive.metastore.uris</name>
+        <value>thrift://10.194.188.93:9083</value>
+    </property>
+    <property>
+        <name>hive.metastore.client.socket.timeout</name>
+        <value>300</value>
+    </property>
+    <property>
+        <name>hive.metastore.warehouse.dir</name>
+        <value>/data/warehouse</value>
+    </property>
+    <property>
+        <name>fs.s3a.endpoint</name>
+        <value>http://10.194.188.93:9000</value>
+    </property>
+    <property>
+        <name>fs.s3a.access.key</name>
+        <value>3PBBErmDw1TgHAwN2uUO</value>
+    </property>
+    <property>
+        <name>fs.s3a.secret.key</name>
+        <value>jRfWTt4SnDZhb0MbhQU3z25jaUS1beE0QEXc02vI</value>
+    </property>
+</configuration>

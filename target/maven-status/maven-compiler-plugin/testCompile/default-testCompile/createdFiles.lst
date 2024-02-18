@@ -1,0 +1,7 @@
+org/apache/flink/table/examples/java/basics/TemporalJoinSQLExampleITCase.class
+org/apache/flink/table/examples/java/basics/GettingStartedExampleITCase.class
+org/apache/flink/table/examples/java/basics/WordCountSQLExampleITCase.class
+org/apache/flink/table/examples/java/basics/StreamSQLExampleITCase.class
+org/apache/flink/table/examples/java/basics/UpdatingTopCityExampleITCase.class
+org/apache/flink/table/examples/java/functions/AdvancedFunctionsExampleITCase.class
+org/apache/flink/table/examples/utils/ExampleOutputTestBase.class
